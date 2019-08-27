@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18e7d42e-d782-4f4b-817a-cb19c166fb73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/Cart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/Vapiano-Logo-650x315.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/cartBackground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/drinks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/restaurant.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/soup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/spain-and-portugal-explorer-hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/starter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/sushi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/tiramisu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-bruscetta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-dolci1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-dolci2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-dolci3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-mozzarella.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-pasta1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-pasta2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-pasta3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-pizza1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-pizza2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-pizza3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-salad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-signUp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano-soup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/assets/vapiano.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/components/ProductCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/components/ProductCategory.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/components/Table.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/components/attekintes.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/components/smallProductCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/event-bus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/utils/gmaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/views/Cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/views/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vue/src/views/SignUp.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-vue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-vue/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-vue/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-vue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-vue/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-vue/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-vue/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-vue/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-vue/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-vue/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-vue/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-vue/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pizza-vue" />
+  </component>
+  <component name="ProjectId" id="1OowyWniHrBiVfWDBmMlcagdykn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18e7d42e-d782-4f4b-817a-cb19c166fb73" name="Default Changelist" comment="" />
+      <created>1564657511988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564657511988</updated>
+      <workItem from="1564657513256" duration="11529000" />
+      <workItem from="1564750870440" duration="9729000" />
+      <workItem from="1565093859834" duration="9114000" />
+      <workItem from="1565180456451" duration="49921000" />
+      <workItem from="1565609487052" duration="5141000" />
+      <workItem from="1565949277825" duration="8279000" />
+      <workItem from="1566457561273" duration="1613000" />
+      <workItem from="1566561830852" duration="688000" />
+      <workItem from="1566914674868" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
